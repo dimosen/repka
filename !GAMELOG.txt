@@ -1,0 +1,246 @@
+Start game
+Check module name
+Hook crt
+CrtMain
+Disable DEP
+Game: Arizona
+Branch: Main
+Hook launch errors
+Hook game exit
+Hook game load logging
+Fix refresh rate
+Fix startup errors
+Fix default resolution
+Hook fonts
+Find documets dir
+Use default SAMP font
+Hook AddFontResourceA( "gtaweap3.ttf" )
+Hook AddFontResourceA( "sampaux3.ttf" )
+Load SAMP R1 ( 0x3cb0000 )
+Disable builtin SAMP anti-cheat
+Force use russian fonts
+Locale: ru-RU (1251)
+Detect multibyte locale with russian characters.
+Disable limit for maximum FPS
+Hook startupInfo
+Replace settings file to: arizona.set
+Seasons disabled
+Hook SAA
+Hook gameloop
+Load Runtime
+Failed to load "cef/vccorlib140.dll" 7e
+Can't load Runtime
+Load crashlog
+Load dbg symbols
+Hook UEF
+Time start 19:44:27
+Win ver: 6.1 build 7601 (7)
+With mod "car"
+With mod "Effects"
+With mod "Fonare"
+With mod "models"
+With mod "Move Anims [Private Edition]"
+With mod "Roads1"
+With mod "Skins"
+With mod "Skins1"
+With mod "Sounds"
+With mod "v1"
+With mod "v2"
+With mod "Vehicles"
+With mod "Weapons"
+Load asi-plugins
+Load ASI "$fastman92limitAdjuster.asi" at 0x56710000
+Load ASI "AZVoice.asi" at 0x56340000
+Load ASI "CLEO.asi" at 0x59160000
+Load ASI "crashes.asi" at 0x5a0a0000
+Load ASI "FastConnectFix200.asi" at 0x5a020000
+Load ASI "fixFTH.asi" at 0x71280000
+Load ASI "flickr.asi" at 0x5a090000
+Load ASI "gps_marker.asi" at 0x58330000
+Load ASI "interface.asi" at 0x59120000
+Load ASI "modloader.asi" at 0x56280000
+Load ASI "MoonLoader.asi" at 0x56070000
+Load ASI "mousefix.asi" at 0x58dc0000
+Load ASI "NewConnectFix-ARZRP.asi" at 0x58da0000
+Load ASI "normalmapfix.asi" at 0x4e00000
+Load ASI "OutFitFix.asi" at 0x5070000
+Load ASI "ReconnectFixARIZONA-RP (1).asi" at 0x5a010000
+Load ASI "ReconnectFixARIZONA-RP.asi" at 0x58d80000
+Load ASI "SALodLights.asi" at 0x582c0000
+Load ASI "SAMPFUNCS.asi" at 0x55de0000
+Load ASI "sa_widescreenfix_lite.asi" at 0x55c50000
+Load ASI "Screenshot.asi" at 0x55bb0000
+Load ASI "ShellFix.asi" at 0x51c0000
+Load ASI "SilentPatchSA.asi" at 0x55b60000
+Load ASI "StreamMemFix.asi" at 0x53c0000
+Load ASI "_CoreGame.asi" at 0x69940000
+Fix CLEO opcodes
+FirstPersonFix error: mod not loaded
+Loading CEF
+Done
+All plugins is loaded
+Hook SAA2 (mod): D:\4.0\bin\Arizona\modloader/ to D:\4.0\bin\Arizona\mods\
+Hook SAA2: loadscs.txd to D:\4.0\bin\Arizona\core_game\loadscs.txd
+Hook SAA2: HANDLING.CFG to D:\4.0\bin\Arizona\core_game\HANDLING.CFG
+Init cursor
+Init d3d9
+Hook dx
+CPU:
+	Arch: 9
+	Level: 0x6
+	Type: 0x21d8
+	Count: 4
+MEMORY:
+	Page size: 4096
+	Min address: 0x10000
+	Max address: 0xfffeffff
+	Total: 16323MB
+	Available for system: 12137MB
+	Available for game: 3399MB
+	Available for textures: 3671MB
+VIDEO:
+	Video adapter 0:
+		Device: \\.\DISPLAY1 ( 0x10de, 0x1c82 )
+		Driver: nvd3dum.dll ( 1b0015000e19e3 )
+		Description: NVIDIA GeForce GTX 1050 Ti
+		Vertex shader version: fffe0300
+		Pixel shader version: ffff0300
+Pools initialize
+Load IMG archives
+Hook SAA2: DATA\DEFAULT.DAT to D:\4.0\bin\Arizona\core_game\DEFAULT.DAT
+Loading the Game: Loading default.ide
+Loading the Game: Loading vehicles.ide
+Hook SAA2: data\vehicles.ide to D:\4.0\bin\Arizona\core_game\vehicles.ide
+Loading the Game: Loading peds.ide
+Loading the Game: Loading vegepart.ide
+Loading the Game: Loading barriers.ide
+Loading the Game: Loading dynamic.ide
+Loading the Game: Loading dynamic2.ide
+Loading the Game: Loading multiobj.ide
+Loading the Game: Loading procobj.ide
+Loading the Game: Loading lan.ide
+Loading the Game: Loading lan2.ide
+Loading the Game: Loading las.ide
+Loading the Game: Loading las2.ide
+Loading the Game: Loading lae.ide
+Loading the Game: Loading lae2.ide
+Loading the Game: Loading law2.ide
+Loading the Game: Loading law.ide
+Loading the Game: Loading lawn.ide
+Loading the Game: Loading lahills.ide
+Loading the Game: Loading laxref.ide
+Loading the Game: Loading sfn.ide
+Loading the Game: Loading sfs.ide
+Loading the Game: Loading sfse.ide
+Loading the Game: Loading sfe.ide
+Loading the Game: Loading sfw.ide
+Loading the Game: Loading sfxref.ide
+Loading the Game: Loading vegasn.ide
+Loading the Game: Loading vegass.ide
+Loading the Game: Loading vegase.ide
+Loading the Game: Loading vegasw.ide
+Loading the Game: Loading vegaxref.ide
+Loading the Game: Loading countryn.ide
+Loading the Game: Loading countn2.ide
+Loading the Game: Loading countrys.ide
+Loading the Game: Loading countrye.ide
+Loading the Game: Loading countryw.ide
+Loading the Game: Loading counxref.ide
+Loading the Game: Loading int_la.ide
+Loading the Game: Loading int_sf.ide
+Loading the Game: Loading int_veg.ide
+Loading the Game: Loading int_cont.ide
+Loading the Game: Loading levelmap.ide
+Loading the Game: Loading levelxre.ide
+Loading the Game: Loading gen_int1.ide
+Loading the Game: Loading gen_int2.ide
+Loading the Game: Loading gen_intb.ide
+Loading the Game: Loading gen_int3.ide
+Loading the Game: Loading gen_int4.ide
+Loading the Game: Loading gen_int5.ide
+Loading the Game: Loading savehous.ide
+Loading the Game: Loading stadint.ide
+Loading the Game: Loading seabed.ide
+Loading the Game: Loading props.ide
+Loading the Game: Loading props2.ide
+Loading the Game: Loading propext.ide
+Loading the Game: Loading veh_mods.ide
+Loading the Game: Loading txdcut.ide
+Loading the Game: Loading samp.ide
+Loading the Game: Loading custom.ide
+Loading the Game: Loading weapons.col
+Loading the Game: Loading Object Data
+Loading the Game: Loading Setup vehicle info data
+Hook SAA2: MODELS\GENERIC\VEHICLE.TXD to D:\4.0\bin\Arizona\core_game\VEHICLE.TXD
+Loading the Game: Loading Streaming Init
+Loading the Game: Loading Collision
+Loading the Game: Loading map.zon
+Loading the Game: Loading info.zon
+Loading the Game: Loading lan.ipl
+Loading the Game: Loading lan2.ipl
+Loading the Game: Loading las.ipl
+Loading the Game: Loading las2.ipl
+Loading the Game: Loading lae.ipl
+Loading the Game: Loading lae2.ipl
+Loading the Game: Loading law.ipl
+Loading the Game: Loading lawn.ipl
+Loading the Game: Loading law2.ipl
+Loading the Game: Loading lahills.ipl
+Loading the Game: Loading sfn.ipl
+Loading the Game: Loading sfs.ipl
+Loading the Game: Loading sfse.ipl
+Loading the Game: Loading sfe.ipl
+Loading the Game: Loading sfw.ipl
+Loading the Game: Loading vegasn.ipl
+Loading the Game: Loading vegass.ipl
+Loading the Game: Loading vegase.ipl
+Loading the Game: Loading vegasw.ipl
+Loading the Game: Loading countryn.ipl
+Loading the Game: Loading countn2.ipl
+Loading the Game: Loading countrys.ipl
+Loading the Game: Loading countrye.ipl
+Loading the Game: Loading countryw.ipl
+Loading the Game: Loading int_la.ipl
+Loading the Game: Loading int_sf.ipl
+Loading the Game: Loading int_veg.ipl
+Loading the Game: Loading int_cont.ipl
+Loading the Game: Loading gen_int1.ipl
+Loading the Game: Loading gen_int2.ipl
+Loading the Game: Loading gen_intb.ipl
+Loading the Game: Loading gen_int3.ipl
+Loading the Game: Loading gen_int4.ipl
+Loading the Game: Loading gen_int5.ipl
+Loading the Game: Loading stadint.ipl
+Loading the Game: Loading savehous.ipl
+Loading the Game: Loading levelmap.ipl
+Loading the Game: Loading seabed.ipl
+Loading the Game: Loading paths.ipl
+Loading the Game: Loading paths2.ipl
+Loading the Game: Loading paths3.ipl
+Loading the Game: Loading paths4.ipl
+Loading the Game: Loading paths5.ipl
+Loading the Game: Loading cull.ipl
+Loading the Game: Loading tunnels.ipl
+Loading the Game: Loading occlusf.ipl
+Loading the Game: Loading occluveg.ipl
+Loading the Game: Loading occlula.ipl
+Loading the Game: Loading occluint.ipl
+Loading the Game: Loading audiozon.ipl
+Loading the Game: Loading samp.ipl
+Loading the Game: Add Particles
+Loading the Game: Setup paths
+Loading the Game: Setup water
+Loading the Game: Setup streaming
+Loading the Game: Load animations
+Loading the Game: Setup streaming
+Loading the Game: Ped Init
+Loading the Game: Setup game variables
+Loading the Game: Load scripts
+Loading the Game: Setup game variables
+Object Data: Start script
+Loading the Game: Load scene
+Loading the Game: Procedural Interiors
+Exit process from AZVoice.asi + 0x6ca88
+Get backtrace
+Create unique ID
+Send crash
